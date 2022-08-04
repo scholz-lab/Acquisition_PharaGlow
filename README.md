@@ -5,3 +5,6 @@ The code has been used in combination with the BASLER camera model acA3088-57um.
 
 To run the program-..--.
 
+file to execute
+How to select the segmentation
+triggering
