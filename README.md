@@ -20,7 +20,10 @@ Data is automatically saved in the selected folder. Within this folder, an addit
 For a good recording, it is imperative that  the sample is well in focus. We recommend to start using the focus option in the program. Use the zooming option of the display and fine tune the focus of the objective until you can observe the isthmus of the pharynx. To come back to the full view, click with the right buttonon the display and select "Zoom to fit". If you want to use the segmentation option, then you can fine tune the parameters. During focuse, the sourrounding box of the segmented worm is not being displayed to spare resources. If required, you can clik on the corresponding box in the GUI.
 
 ## Please cite us!
-If you use this software, please cite XXXXXXXXXXXXX
+If you use this software, please cite:  
+Automatically tracking feeding behavior in populations of foraging C. elegans
+Elsa Bonnard, Jun Liu, Nicolina Zjacic, Luis Alvarez, and Monika Scholz
+bioRxiv 2022.01.20.477072; doi: https://doi.org/10.1101/2022.01.20.477072
 
 ## Software license agreement
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
