@@ -1,6 +1,6 @@
 # Acquisition_PharaGlow
 
-LabVIEW code for acquiring data suitable for PharaGlow analysis. The particular strength of this program resides on the live segmentation feature, which enables long recordings at a continuos >= 30 Hz frame rate by reducing the amount of data by several orders of magnitude.
+LabVIEW code for acquiring data suitable for PharaGlow analysis. The particular strength of this program resides on the live segmentation feature, which enables long recordings at a continuous >= 30 Hz frame rate by reducing the amount of data by several orders of magnitude.
 
 ## Before starting
 The code has been used in combination with the BASLER camera model acA3088-57um. For the program to work, the appropriate drivers need to be used for the camera (NI-IMAQdx USB3 Vision). The installation of the drivers can be done using the NI MAX software. Using NI MAX, it should be possible to grab pictures to test that the camera is functioning properly and that LabVIEW can access it. The camera number should also be displayed in NI MAX. Note that upon replacement of the drivers, the camera will not be anymore available using the Pylon viewer. The standard drivers can be restored using NI MAX. As a side note, in some occasions, restoring the appropriate driver could not be achieved with MAX and original drivers had to be reinstalled manually. We do not recommend changing back and forward from one driver to another. This might be solved in future LabVIEW releases (we use version 21).
