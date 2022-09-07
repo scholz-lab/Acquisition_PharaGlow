@@ -21,7 +21,7 @@ For a good recording, it is imperative that the sample is well in focus. We reco
 
 ## Please cite us!
 If you use this software, please cite:
-Automatically tracking feeding behavior in populations of foraging C. elegans Elsa Bonnard, Jun Liu, Nicolina Zjacic, Luis Alvarez, and Monika Scholz bioRxiv 2022.01.20.477072; doi: https://doi.org/10.1101/2022.01.20.477072
+Automatically tracking feeding behavior in populations of foraging C. elegans Elsa Bonnard, Jun Liu, Nicolina Zjacic, Luis Alvarez, and Monika Scholz eLife 2022;11:e77252. doi: DOI: https://doi.org/10.7554/eLife.77252
 
 ## License
 scholz-lab/Acquisition_PharaGlow is licensed under the GNU General Public License v3.0
